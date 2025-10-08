@@ -1,0 +1,13 @@
+C:\Users\odali\OneDrive\Desktop\Repositorio\Programa-1-semi-2025.git\MiPrimerProyectoenCshar\bin\Debug\MiPrimerProyectoenCshar.exe.config
+C:\Users\odali\OneDrive\Desktop\Repositorio\Programa-1-semi-2025.git\MiPrimerProyectoenCshar\bin\Debug\MiPrimerProyectoenCshar.exe
+C:\Users\odali\OneDrive\Desktop\Repositorio\Programa-1-semi-2025.git\MiPrimerProyectoenCshar\bin\Debug\MiPrimerProyectoenCshar.pdb
+C:\Users\odali\OneDrive\Desktop\Repositorio\Programa-1-semi-2025.git\MiPrimerProyectoenCshar\obj\Debug\MiPrimerProyectoenCshar.csproj.AssemblyReference.cache
+C:\Users\odali\OneDrive\Desktop\Repositorio\Programa-1-semi-2025.git\MiPrimerProyectoenCshar\obj\Debug\MiPrimerProyectoenCshar.Form1.resources
+C:\Users\odali\OneDrive\Desktop\Repositorio\Programa-1-semi-2025.git\MiPrimerProyectoenCshar\obj\Debug\MiPrimerProyectoenCshar.Properties.Resources.resources
+C:\Users\odali\OneDrive\Desktop\Repositorio\Programa-1-semi-2025.git\MiPrimerProyectoenCshar\obj\Debug\MiPrimerProyectoenCshar.csproj.GenerateResource.cache
+C:\Users\odali\OneDrive\Desktop\Repositorio\Programa-1-semi-2025.git\MiPrimerProyectoenCshar\obj\Debug\MiPrimerProyectoenCshar.csproj.CoreCompileInputs.cache
+C:\Users\odali\OneDrive\Desktop\Repositorio\Programa-1-semi-2025.git\MiPrimerProyectoenCshar\obj\Debug\MiPrimerProyectoenCshar.exe
+C:\Users\odali\OneDrive\Desktop\Repositorio\Programa-1-semi-2025.git\MiPrimerProyectoenCshar\obj\Debug\MiPrimerProyectoenCshar.pdb
+C:\Users\odali\OneDrive\Desktop\Repositorio\Programa-1-semi-2025.git\MiPrimerProyectoenCshar\obj\Debug\MiPrimerProyectoenCshar.exe.config
+C:\Users\odali\OneDrive\Desktop\Repositorio\Programa-1-semi-2025.git\MiPrimerProyectoenCshar\obj\Debug\MiPrimerProyectoenCshar.Saludar.resources
+C:\Users\odali\OneDrive\Desktop\Repositorio\Programa-1-semi-2025.git\MiPrimerProyectoenCshar\obj\Debug\MiPrimerProyectoenCshar.Serie.resources
